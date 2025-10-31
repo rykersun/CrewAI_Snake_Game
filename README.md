@@ -104,3 +104,7 @@ MAX_ITERATIONS = 100  # 設定最多開發次數
 ```
 
 # Genmini 開發的 Snake Game
+
+<img width="634" height="448" alt="螢幕擷取畫面 2025-10-31 211949" src="https://github.com/user-attachments/assets/bb380831-b15d-42ca-ad9a-5804ff07bd52" />
+
+
